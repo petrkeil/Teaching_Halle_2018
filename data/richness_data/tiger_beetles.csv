@@ -1,0 +1,158 @@
+Area,S,Endemics,Country,Realm
+9976140,29,0,Canada,Nearctic
+1972550,122,60,Mexico,Nearctic
+9372610,120,50,USA,Nearctic
+2780090,65,13,Argentina,Neotropics
+22965,10,0,Belize,Neotropics
+1098580,103,23,Bolivia,Neotropics
+8511970,203,122,Brazil,Neotropics
+756630,6,1,Chile,Neotropics
+1138910,78,10,Colombia,Neotropics
+51100,41,4,Costa Rica,Neotropics
+110920,12,4,Cuba,Neotropics
+283560,89,27,Ecuador,Neotropics
+21041,16,1,El Salvador,Neotropics
+108890,25,1,Guatemala,Neotropics
+448793,36,7,Guayanas,Neotropics
+76190,10,3,Hispaniola,Neotropics
+112088,19,2,Honduras,Neotropics
+10990,4,0,Jamaica,Neotropics
+139000,25,0,Nicaragua,Neotropics
+75650,50,11,Panama,Neotropics
+406750,54,3,Paraguay,Neotropics
+1285215,96,20,Peru,Neotropics
+5128,4,1,Trinidad and Tobago,Neotropics
+177510,18,0,Uruguay,Neotropics
+912050,58,11,Venezuela,Neotropics
+649970,18,0,Afghanistan,Palaearctic
+28750,4,0,Albania,Palaearctic
+2381740,14,1,Algeria,Palaearctic
+28400,14,0,Armenia,Palaearctic
+83850,10,0,Austria,Palaearctic
+86600,19,0,Azerbaijan,Palaearctic
+174000,5,0,"Baltic (Lithuania, Latvia and Estonia)",Palaearctic
+207600,5,0,Belarus,Palaearctic
+110910,11,0,Bulgaria,Palaearctic
+9250,8,0,Cyprus,Palaearctic
+43070,4,0,Denmark,Palaearctic
+1002000,10,0,Egypt,Palaearctic
+337030,4,0,Finland,Palaearctic
+543990,16,0,France,Palaearctic
+69700,15,0,Georgia,Palaearctic
+356130,9,0,Germany,Palaearctic
+244030,5,0,Great Britain,Palaearctic
+131940,14,0,Greece,Palaearctic
+36150,6,0,Holland,Palaearctic
+93030,8,0,Hungary,Palaearctic
+1648000,36,2,Iran,Palaearctic
+438446,13,0,Iraq,Palaearctic
+20770,8,0,Israel,Palaearctic
+301250,17,1,Italy,Palaearctic
+2669800,28,1,Kazakhstan,Palaearctic
+198500,12,0,Kyrgyzstan,Palaearctic
+17818,6,0,Kuwait,Palaearctic
+2586,5,0,Luxembourg,Palaearctic
+1759540,10,1,Lybia,Palaearctic
+315,4,0,Malta,Palaearctic
+33700,10,0,Moldova,Palaearctic
+1565000,20,2,Mongolia,Palaearctic
+458730,14,3,Morocco,Palaearctic
+324220,4,0,Norway,Palaearctic
+300000,12,1,Oman,Palaearctic
+311730,7,0,Poland,Palaearctic
+92020,10,0,Portugal,Palaearctic
+237500,10,0,Romania,Palaearctic
+17100000,42,0,Russia,Palaearctic
+2153170,11,0,Saudi Arabia,Palaearctic
+504750,17,1,Spain,Palaearctic
+185180,19,1,Syria,Palaearctic
+442750,4,0,Sweden,Palaearctic
+41290,8,0,Switzerland,Palaearctic
+143500,20,0,Tadjikistan,Palaearctic
+163610,14,1,Tunisia,Palaearctic
+779450,26,2,Turkey,Palaearctic
+448100,24,1,Turkmenistan,Palaearctic
+603700,18,0,Ukraine,Palaearctic
+250,8,0,United Arab Emirates,Palaearctic
+447400,20,0,Uzbekistan,Palaearctic
+482680,12,2,Yemen,Palaearctic
+255800,8,0,Yugoslavia (former),Palaearctic
+1246700,73,23,Angola,Ethiopian
+112620,17,0,Benin,Ethiopian
+600370,30,1,Botswana,Ethiopian
+274200,12,0,Burkina Faso,Ethiopian
+27830,9,0,Burundi,Ethiopian
+470200,47,3,Cameroon,Ethiopian
+622980,49,1,Central African Republic,Ethiopian
+1284000,16,0,Chad,Ethiopian
+342000,29,0,Congo-Brazzaville,Ethiopian
+2344880,128,30,Congo (ex-Zaire),Ethiopian
+125000,18,0,Eritrea,Ethiopian
+1096900,54,12,Ethiopia,Ethiopian
+267670,12,0,Gabon,Ethiopian
+11290,13,0,Gambia,Ethiopian
+238540,16,0,Ghana,Ethiopian
+245860,33,0,Guinea,Ethiopian
+36120,35,0,Guinea-Bissau,Ethiopian
+28050,12,0,Guinea (Equatorial),Ethiopian
+322460,26,2,Ivory Coast,Ethiopian
+582640,54,6,Kenya,Ethiopian
+111370,12,0,Liberia,Ethiopian
+118480,50,0,Malawi,Ethiopian
+1240140,19,0,Mali,Ethiopian
+1030700,13,0,Mauritania,Ethiopian
+799380,58,11,Mozambique,Ethiopian
+824280,41,5,Namibia,Ethiopian
+1267000,13,0,Niger,Ethiopian
+923770,27,0,Nigeria,Ethiopian
+26337,8,0,Rwanda,Ethiopian
+196190,37,0,Senegal,Ethiopian
+71740,22,0,Sierra Leone,Ethiopian
+637660,33,9,Somalia,Ethiopian
+1221040,98,34,South Africa,Ethiopian
+2505810,38,0,Sudan,Ethiopian
+939470,86,23,Tanzania,Ethiopian
+56600,24,1,Togo,Ethiopian
+235880,36,0,Uganda,Ethiopian
+746250,63,1,Zambia,Ethiopian
+389300,68,4,Zimbabwe,Ethiopian
+2170,2,0,Comore Islands,Indian_ocean
+587040,176,174,Madagascar,Indian_ocean
+1860,3,2,Mauritius Island,Indian_ocean
+2520,6,5,Réunion Island (with Juan de Nova and Glorieuses Islands),Indian_ocean
+410,1,0,Seychelles Islands,Indian_ocean
+133910,47,1,Bangladesh,Oriental
+47000,23,0,Bhutan,Oriental
+657740,103,19,Burma (Myanmar),Oriental
+176520,42,0,Cambodja,Oriental
+9326410,101,21,"China, PR",Oriental
+3287590,208,108,India (with Nicobar and Andaman Island),Oriental
+1904560,237,125,Indonesia,Oriental
+414800,59,23, Irian Jaya,Oriental
+138204,41,9, Java,Oriental
+535834,49,3, Kalimantan,Oriental
+186145,92,71, Sulawesi,Oriental
+473616,71,16, Sumatra,Oriental
+195219,18,5, Lesser Sundas,Oriental
+74705,19,0, Maluku,Oriental
+372540,24,6,Japan,Oriental
+219360,15,0,Korea (N and S),Oriental
+230800,107,22,Laos,Oriental
+331800,115,39,Malaysia,Oriental
+131235,58,6, Peninsular,Oriental
+200565,88,32, Borneo (incl. Brunei and Sabah),Oriental
+140800,64,2,Nepal,Oriental
+796100,33,1,Pakistan,Oriental
+298170,130,111,Philippines,Oriental
+64740,56,35,Sri Lanka,Oriental
+36180,28,10,Taiwan,Oriental
+511770,123,29,Thailand,Oriental
+325360,114,40,Vietnam,Oriental
+7617930,116,104,Australia,Australian
+18270,2,2,Fiji,Australian
+17400,16,15,New Caledonia,Australian
+269060,14,14,New Zealand,Australian
+451710,79,46,Papua New Guinea,Australian
+27540,20,11,Solomon Islands,Australian
+12190,3,0,Vanuatu,Australian
+2840,2,1,Western Samoa,Australian
