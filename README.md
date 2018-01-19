@@ -1,5 +1,9 @@
 # Macroecological patterns
 
+The goal of this class is to give a brief intro to the classical macroecological patters, and to some important links between them. Two patterns will be examined more in detail: the occupancy-area relationship (OAR) and the species-area relationship (SAR). 
+
+In the practical exercises, participants will explore links of OAR to concepts such as species abundance and range size. They will try to estimate range size of an example species, and will explore its links to spatial scale. They will also try to generate a fractal spatial distribution of a species. In another exercise, they will try to use SAR to estimate global species richness of several larger taxa.
+
 
 ## Morning 10:00-12:00
 
