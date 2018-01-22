@@ -1,6 +1,14 @@
-# Spatial scale and macroecology
+# Spatial scale and macroecology: 1-day course
 
-The goal of this class is to give a brief intro to the scaling of single-species distributions, scaling of biodiversity, and to some important links between them. Two patterns will be examined more in detail: the occupancy-area relationship (OAR) and the species-area relationship (SAR). 
+**Author:** Petr Keil
+
+**Date:** 23 January 2018
+
+**Place:** University of Halle, Germany
+
+------------------------------
+
+**The goal** of this class is to give a brief intro to the scaling of single-species distributions, scaling of biodiversity, and to some important links between them. Two patterns will be examined more in detail: the occupancy-area relationship (OAR) and the species-area relationship (SAR). 
 
 In the practical exercises, participants will focuse on some computational challenges of SAR and OAR. They will try to estimate range size of an example species, and will explore its links to spatial scale. They will also try to generate a fractal spatial distribution of a species. In another exercise, they will try to use SAR to estimate global species richness of several larger taxa.
 
