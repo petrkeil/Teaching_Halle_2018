@@ -5,6 +5,19 @@ The goal of this class is to give a brief intro to the classical macroecological
 In the practical exercises, participants will focuse on some computational challenges of SAR and OAR. They will explore links of OAR to concepts such as species abundance and range size. They will try to estimate range size of an example species, and will explore its links to spatial scale. They will also try to generate a fractal spatial distribution of a species. In another exercise, they will try to use SAR to estimate global species richness of several larger taxa.
 
 
+## [Task 1](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_1_Estimate_range_size.html): Estimate geographic range size of Eurasian beaver
+
+
+## [Task 2](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_2_Range_size_vs_grain.html): Calculate relationship between range size and grain
+
+## [Task 3](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Fractals.html): Generate a fractal geographic distribution of a species
+
+## [Task 4](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_4_Number_of_beavers.html): Generate a fractal geographic distribution of a species
+
+## [Task 5](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Fractals.html): Generate a fractal geographic distribution of a species
+
+
+
 ## Morning 10:00-12:00
 
 ### Quick overview of large-scale patterns -- 20 min

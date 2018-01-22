@@ -1,0 +1,85 @@
+---
+title: 'Estimating global species richness: How many species live on Earth?'
+author: "Petr Keil"
+date: "September 28, 2017"
+output: 
+  html_document: 
+    highlight: tango
+    number_sections: yes
+    theme: cerulean
+    toc: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mainland species-area curves are tri-phasic
+
+When area is large enough, it will inevitably start to ovelap **biome boundaries**
+and **continental boundaries**, and the curve goes up.
+
+## Preston (1960) Ecology
+
+![](Figures/preston_triphasic.png)
+
+## Fridley (2005) Ecology
+
+![](Figures/fridley_triphasic.png)
+
+## Storch et al. (2012) Nature
+
+![](Figures/storch_upward_accelerating.png)
+
+![](Figures/storch_collapsed.png)
+
+# Can we use the SAR to **estimate global (gamma) diversity**?
+
+- We definitely can't use the Chao or rarefaction-based techniques.
+
+- The theory of the large-scale SAR is still underdeveloped.
+
+- Maybe, we can try to figure it out today!
+
+
+
+# Other ways to estimate global richness
+
+There are ways to estimate global biodiversity that are not based on extrapolation
+of SAR.
+
+## Extrapolation of temporal scaling (species-time curves)
+
+This is a figure from Pincheira and Donoso (2013) *PlosONE*:
+
+![](Figures/pinchera_donoso_descriptions.png)
+
+## Extrapolation of taxonomic (phylogenetic) scaling
+
+This is a figure from Strain (2011) *Science*:
+
+![](Figures/strain_predictive_pyramid.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
