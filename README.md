@@ -19,9 +19,9 @@ In the practical exercises, participants will focuse on some computational chall
 -- Extrapolation, interpolation
 -- Fractals
 
-- [Task 3](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Fractals.html): Generate a fractal geographic distribution of a species
+- [Task 3](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Number_of_beavers.html): Count all beavers in the whole world
 
-- [Task 4](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_4_Number_of_beavers.html): Count all beavers in the whole world
+- [Task 4](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_4_Fractals.html): Generate a fractal geographic distribution of a species
 
 **13:00 - 14:00**
 

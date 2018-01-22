@@ -1,5 +1,5 @@
 ---
-title: 'Task 4: Estimate number of individual Eurasian beavers in the World'
+title: 'Task 3: Estimate number of individual Eurasian beavers in the World'
 author: "Petr Keil"
 date: "January 22, 2018"
 output: 

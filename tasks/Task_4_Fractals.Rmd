@@ -1,5 +1,5 @@
 ---
-title: 'Task 3: Generate a fractal geographic distribution of a species'
+title: 'Task 4: Generate a fractal geographic distribution of a species'
 author: "Petr Keil"
 date: "January 22, 2018"
 output: 
