@@ -1,0 +1,119 @@
+---
+title: "Practical tasks - macroecological patterns"
+author: "Petr Keil"
+date: "January 22, 2018"
+output: 
+  html_document: 
+    highlight: pygments
+    number_sections: yes
+    theme: cerulean
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+--------------------------------------------------------------------------------
+
+# Estimate range size of Eurasian beaver
+
+## Objective
+
+## Useful packages, functions, hints
+
+R packages:
+
+```{r, message=FALSE, warning=FALSE}
+library(raster) # handles raster data
+library(sp)     # handles vector, polygon, and point data 
+library(rgdal)  # handles geographic projections
+library(rgeos)  # calculations with spatial data
+```
+
+Functions: `raster`, `aggregate`, `gArea` 
+
+Keywords to look for: `coastline paradox`, `convex hull`,  
+
+## Data
+
+```{r}
+pts <- read.csv("https://raw.githubusercontent.com/petrkeil/Teaching_Halle_2018/master/data/beaver_points/beaver_points_equal_area.csv")
+
+shp <- readOGR(dsn = "", layer = "")  
+```
+
+
+
+--------------------------------------------------------------------------------
+
+# Plot occupancy at multiple grains
+
+## Objective
+
+## Data
+
+```{r}
+
+```
+
+## Useful packages, functions, hints
+
+```{r}
+
+```
+--------------------------------------------------------------------------------
+
+# Generate a fractal species distribution
+
+## Objective
+
+## Data
+
+```{r}
+
+```
+
+--------------------------------------------------------------------------------
+
+## Useful packages, functions, hints
+
+```{r}
+
+```
+
+--------------------------------------------------------------------------------
+
+# Estimate number of living individuals of Eurasian beaver
+
+## Objective
+
+## Data
+
+```{r}
+
+```
+
+## Useful packages, functions, hints
+
+```{r}
+
+```
+
+--------------------------------------------------------------------------------
+
+# Estimate number of all living species
+
+## Objective
+
+## Data
+
+```{r}
+
+```
+
+## Useful packages, functions, hints
+
+```{r}
+
+```
