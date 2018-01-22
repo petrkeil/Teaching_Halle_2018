@@ -18,11 +18,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Estimate range size of Eurasian beaver
 
+![](figures/Castor_fiber_vistulanus2.jpg)
+
+Eurasian beaver (*Castor fiber*, Linnaeus, 1758)
+
 ## Objective
 
 ## Useful packages, functions, hints
-
-R packages:
 
 ```{r, message=FALSE, warning=FALSE}
 library(raster) # handles raster data
@@ -31,19 +33,32 @@ library(rgdal)  # handles geographic projections
 library(rgeos)  # calculations with spatial data
 ```
 
-Functions: `raster`, `aggregate`, `gArea` 
+Functions to check: `raster`, `rasterize`, `aggregate`, `gArea`, `gConvexHull`, `SpatialPoints` 
 
-Keywords to look for: `coastline paradox`, `convex hull`,  
+Keywords to look for: *coastline paradox*, *convex hull*.
 
 ## Data
 
-```{r}
-pts <- read.csv("https://raw.githubusercontent.com/petrkeil/Teaching_Halle_2018/master/data/beaver_points/beaver_points_equal_area.csv")
+Load the data
 
-shp <- readOGR(dsn = "", layer = "")  
+```{r}
+pts <- read.csv("data/beaver_points/beaver_points_equal_area.csv")
+
+shp <- readOGR(dsn = "data/beaver_shapefile",
+               layer = "beaver_shape_equal_area")
+
+borders <- readOGR(dsn = "data/global_boundaries",
+                   layer = "world_equal_area")
+
 ```
 
+Plot the data
 
+```{r}
+plot(shp, col="pink")
+points(pts, cex=0.1, col="red")
+plot(borders, add=TRUE, border="grey")
+```
 
 --------------------------------------------------------------------------------
 

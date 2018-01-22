@@ -1,0 +1,19 @@
+---
+title: 'Task 4: Estimate number of individual Eurasian beavers in the World'
+author: "Petr Keil"
+date: "January 22, 2018"
+output: 
+  html_document: 
+    highlight: pygments
+    number_sections: yes
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Objective
+
+The objective is simple: Try to **estimate number of individual beavers** in the entire
+World, using only the data from Task 1.

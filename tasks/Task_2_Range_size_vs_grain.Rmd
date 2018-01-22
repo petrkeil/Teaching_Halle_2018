@@ -1,0 +1,39 @@
+---
+title: 'Task 2: Calculate relationship between range size and grain'
+author: "Petr Keil"
+date: "January 22, 2018"
+output: 
+  html_document: 
+    highlight: pygments
+    number_sections: yes
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Objective
+
+Your objectives are: 
+
+- Calculate and plot relationship between area of a raster
+cell, and range size of the Eurasian beaver.
+
+- Try to do this using both the rasterized polygon, and rasterized point data. Compare the curves.
+
+
+![](../figures/oar.png)
+
+# Useful packages, functions, hints
+
+```{r, message=FALSE, warning=FALSE}
+library(raster) # handles raster data
+library(rgdal)  # handles geographic projections and data import
+```
+
+Potentially **useful functions**: `aggregate`
+
+# Data
+
+Use the same beaver data as in Task 1.

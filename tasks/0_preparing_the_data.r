@@ -53,6 +53,18 @@ write.csv(coords.eq, file="../data/beaver_points/beaver_points_equal_area.csv", 
 write.csv(beaver.point, file="../data/beaver_points/beaver_points_wgs84.csv", row.names = FALSE)
 
 
+# global raster grid
+temp <- raster("../data/global_raster/annual_T.bil")
+temp.eq <- projectRaster(temp, crs=LAM_EUR)
+new.ext <- extent(x = c(-3376993, 3593523, -2002729, 2085160))
+temp.eq <- crop(temp.eq, new.ext)
+plot(temp.eq)
+points(coords.eq)
+plot(beaver.shape.eq, add=T)
+
+writeRaster(temp.eq, filename = "../data/global_raster/annual_T_equal_area.tif", 
+            format="GTiff", overwrite=TRUE )
+
 
 
 
