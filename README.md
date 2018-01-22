@@ -12,9 +12,9 @@ In the practical exercises, participants will focuse on some computational chall
 
 ## [Task 3](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Fractals.html): Generate a fractal geographic distribution of a species
 
-## [Task 4](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_4_Number_of_beavers.html): Generate a fractal geographic distribution of a species
+## [Task 4](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_4_Number_of_beavers.html): Cound all beavers in the whole world
 
-## [Task 5](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_3_Fractals.html): Generate a fractal geographic distribution of a species
+## [Task 5](https://rawgit.com/petrkeil/Teaching_Halle_2018/master/tasks/Task_5_How_many_species_on_Earth.html): Estimate global biodiversity
 
 
 
